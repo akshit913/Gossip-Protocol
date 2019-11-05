@@ -1,0 +1,1 @@
+Gossip.main(System.argv)
